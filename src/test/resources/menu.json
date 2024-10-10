@@ -1,0 +1,29 @@
+{
+  "menuVersion": 5,
+  "items": [
+    {
+      "id": 1,
+      "type": "Coffee",
+      "name" : "Americano",
+      "price": 120
+    },
+    {
+      "id": 2,
+      "type": "Coffee",
+      "name" : "Cappuccino",
+      "price": 160
+    },
+    {
+      "id": 3,
+      "type": "Food",
+      "name" : "Cupcake",
+      "price": 100
+    },
+    {
+      "id": 4,
+      "type": "Food",
+      "name" : "Sandwich",
+      "price": 130
+    }
+  ]
+}
